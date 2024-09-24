@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pandas_ta
+requests
+apscheduler.schedulers.background
+datetime
